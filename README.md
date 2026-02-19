@@ -4,7 +4,14 @@ I'm Chris. I do software development, reverse engineering and all kinds of other
 
 To not beat around the bush too much, here are some colorful icons for you enjoyment:
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,py,php,rust,md,git,androidstudio,vscode,godot,blender,raspberrypi,linux,nix)](https://skillicons.dev)
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,py,php,rust,md&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,py,php,rust,md&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,androidstudio,vscode,raspberrypi,linux,nix&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=git,androidstudio,vscode,raspberrypi,linux,nix&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=jadx,godot,blender,inkscape,terminal,kicad&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+[![Tools](https://go-skill-icons.vercel.app/api/icons?i=jadx,godot,blender,inkscape,terminal,kicad&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 
 And a bit of information for you to get distracted by:
 
