@@ -2,7 +2,7 @@
 
 I'm Chris. I do software development, reverse engineering and all kinds of other fun stuff in my free time. Currently, I'm a computer science student at [KIT](https://kit.edu/). 
 
-To not beat around the bush too much, here are some colorful icons for you enjoyment:
+To not beat around the bush too much, here are some colorful icons for your enjoyment:
 
 [![Languages](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,py,php,rust,md&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
 [![Languages](https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,py,php,rust,md&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
